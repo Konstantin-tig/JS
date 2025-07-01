@@ -14,12 +14,12 @@
 //         n--;
 //     }
 
-let number = 10;
-let factorial = 1;
+let number = 1;
+let factorial = 10;
 let i = 1;
 
-while (i <= number) {
-  factorial *= i;
+while (i <= factorial) {
+  number *= i;
   i++;
 }
 
