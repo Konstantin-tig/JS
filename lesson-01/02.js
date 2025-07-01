@@ -5,5 +5,22 @@
   Например, факториал числа 3 это 1 * 2 * 3 (6).
 */
 
-// your code
-let factorial
+// // your code
+// let factorial = 0;
+// let result = 1; 
+// let n = 10; 
+//     while (n > 1) {  
+//         result *= n;  
+//         n--;
+//     }
+
+let number = 10;
+let factorial = 1;
+let i = 1;
+
+while (i <= number) {
+  factorial *= i;
+  i++;
+}
+
+console.log(`Факториал числа ${number} равен ${factorial}`);
