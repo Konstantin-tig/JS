@@ -5,13 +5,25 @@
 */
 
 // your code
-let sum = 0
-let i = 1
- while (i <= 20) {
-  if (i % 2 !== 0) {
-    sum += i;
-  }
-  i++;
- }
+// let sum = 0
+// let i = 1
+//  while (i <= 20) {
+//   if (i % 2 !== 0) {
+//     sum += i;
+//   }
+//   i++;
+//  }
 
- console.log (sum)
+//  console.log (sum)
+// let energy = 10;
+// while (energy >= 0) {
+//   console.log(`Текущий уровень энергии: ${energy}`)
+  // код внутри цикла
+
+// }
+
+
+//   while (energy >= 0) {
+//   console.log('Текущий уровень энергии: ' + energy)
+//   // код внутри цикла
+// }
