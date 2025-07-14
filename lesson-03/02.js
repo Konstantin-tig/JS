@@ -10,6 +10,5 @@ function isEven(i) {
  }
     
 }
- isEven (9)
 
 
