@@ -4,26 +4,13 @@
   Вам понадобиться оператор остатка от деления %. Например, выражение 5 % 2 вернёт остаток 1.
 */
 
-your code
-let sum = 0
-let i = 1
- while (i <= 20) {
+// your code
+let sum = 0;
+let i = 1;
+
+while (i <= 20) {
   if (i % 2 !== 0) {
     sum += i;
   }
   i++;
- }
-
-//  console.log (sum)
-// let energy = 10;
-// while (energy >= 0) {
-//   console.log(`Текущий уровень энергии: ${energy}`)
-  // код внутри цикла
-
-// }
-
-
-//   while (energy >= 0) {
-//   console.log('Текущий уровень энергии: ' + energy)
-//   // код внутри цикла
-// }
+}
