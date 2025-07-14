@@ -9,4 +9,4 @@ function findLargest(a, b, c) {
     return  c;
   }
 }
-
+findLargest(1,2,3)
