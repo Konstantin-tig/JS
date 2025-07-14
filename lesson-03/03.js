@@ -6,7 +6,6 @@ function findLargest(a, b, c) {
   } else if (b >= a && b >= c) {
     return b;
   } else {
-    return  c;
+    return c;
   }
 }
-findLargest(1,2,3)
